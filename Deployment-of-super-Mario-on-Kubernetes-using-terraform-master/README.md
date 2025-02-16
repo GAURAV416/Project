@@ -2,4 +2,3 @@
 
 ![supermario](https://imgur.com/rC4Qe8g.png)
 
-## Detailed Project Blob Link : https://harshhaa.hashnode.dev/deployment-of-super-mario-on-kubernetes-using-terraform
